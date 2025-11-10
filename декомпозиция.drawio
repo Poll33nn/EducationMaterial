@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2025-11-10T12:14:39.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="xoRqfHlKdQlVuYJaDT4r" version="23.1.5" type="device">
+  <diagram name="Страница — 1" id="pro3PPukbg8mYr4MjZI1">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="02QZYF3Yew7z3VysPSIa-1" value="Подсистема управления участками" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-2" value="Интерфейс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-3" value="Бэкенд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-4" value="Фронтенд" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-5" value="Разработать страницу авторизации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-6" value="Разработать страницу просмотра лесных участков" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="145" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-7" value="Разработать страницу подробной информации о лесных участках" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-9" value="Разработать страницу создания мероприятий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-10" value="Разработать страницу создания лесных участков" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-11" value="Разработать страницу экспорта мероприятий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-12" value="Реализовать сервисы в контроллерах" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-13" value="Настроить эндпоинты для работы API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="392.5" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-14" value="Реализовать обработку HTTP-кодов ответа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="417.5" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-15" value="Разработать сервисы для работы с БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="347.5" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-17" value="Реализовать аутентификацю пользователя" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="437.5" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-18" value="Создать и настроить БД MSSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="327.5" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-19" value="Реализовать отображения карточек лесных участков" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-20" value="Реализовать фильтрацю по номеру или адресу лесного квартала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="605" width="401" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-21" value="Привести страницы к единому стилю" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="02QZYF3Yew7z3VysPSIa-22" value="Реализовать возможность перехода между страницами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="630" width="400" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
